@@ -23,6 +23,8 @@ AVAILABLE FEATURES:
 
 WEBSITE IMAGES:
 
-![image1](https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/abafd988-37cf-441a-933b-15d39ddee4ba)
+<img width="935" alt="Screenshot 2023-10-01 190227" src="https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/3f55f2c9-d058-4e0e-96c8-322532e9e257">
+<img width="960" alt="Screenshot 2023-10-01 190144" src="https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/c72a3989-7343-4895-aefc-2b38113e874a">
+<img width="951" alt="Screenshot 2023-10-01 190249" src="https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/7d5133d6-8810-4c72-993f-1113fadf75d1">
+<img width="936" alt="Screenshot 2023-10-01 190340" src="https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/6ba83df0-129d-4c6b-9e5a-c00259a0119a">
 
-![image2](https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/62168f5e-ad9b-4593-861a-7138d970a80a)
