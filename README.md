@@ -3,6 +3,7 @@ ABSTRACT:
 This house rental management system project in PHP focuses mainly on dealing with tenants regarding their bookings and other information. Also, it displays all the available house data such as total members, address, city, state, photos, and furthermore details on it. The project is divided into two categories: Owner and Tenant Login.
 
 AVAILABLE FEATURES:
+
 1.Owner login
 
 2.Tenant login
