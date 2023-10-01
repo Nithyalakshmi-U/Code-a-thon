@@ -4,13 +4,21 @@ This house rental management system project in PHP focuses mainly on dealing wit
 
 AVAILABLE FEATURES:
 1.Owner login
+
 2.Tenant login
+
 3.Add Houses
+
 4.Rate and view house ratings
+
 5.View Tenant and Member details
+
 6.Manage tenant and member details
+
 7.View Bookings
+
 8.Perform Bookings
+
 
 WEBSITE IMAGES:
 ![image1](https://github.com/Nithyalakshmi-U/Code-a-thon/assets/142075037/abafd988-37cf-441a-933b-15d39ddee4ba)
